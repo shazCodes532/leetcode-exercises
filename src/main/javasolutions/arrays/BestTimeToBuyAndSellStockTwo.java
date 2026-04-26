@@ -21,7 +21,3 @@ public class BestTimeToBuyAndSellStockTwo {
         return totalProfit;
     }
 }
-
-// Source:
-// Level: Medium
-

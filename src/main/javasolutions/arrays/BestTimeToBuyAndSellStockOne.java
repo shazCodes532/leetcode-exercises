@@ -31,5 +31,5 @@ public class BestTimeToBuyAndSellStockOne {
 *   }
 * }
 *
-* Has a time complexity of O(n^2)
+* Time complexity: O(n^2)
 */
