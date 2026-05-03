@@ -17,6 +17,7 @@ This subsection tracks problems completed on Leetcode that have the `Array` tag.
 ## Medium
 
 * Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+* Maximum Gap: 
 * Single Number II: https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=array
 * Single Number III: https://leetcode.com/problems/single-number-iii/description/?envType=problem-list-v2&envId=array
 
